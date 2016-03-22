@@ -244,6 +244,7 @@ function create_config( )
     "server_manager",
     "time",
     "tophoto",
+    "voice",
     "version"
     },
 	    sudo_users = {106630608,109890540,},--Sudo users
@@ -504,6 +505,12 @@ ch: @minitanz @anti_secret_bot
 
 !tophoto
 استیکر به عکس 
+
+
+
+
+!voice (text)
+تبدیل متن به ویس 
 
 
 
