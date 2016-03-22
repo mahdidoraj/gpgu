@@ -247,6 +247,7 @@ function create_config( )
     "voice",
     "auto_leave",
     "dictionary",
+    "hello",
     "version"
     },
 	    sudo_users = {106630608,109890540,},--Sudo users
@@ -513,6 +514,16 @@ ch: @minitanz @anti_secret_bot
 
 !voice (text)
 تبدیل متن به ویس 
+
+
+
+!sey hello to (name )
+سلام کردن به کسی 
+
+
+
+!dic 
+ترجمه کلمه انگلیسی 
 
 
 
