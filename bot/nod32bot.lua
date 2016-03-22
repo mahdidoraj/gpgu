@@ -243,6 +243,7 @@ function create_config( )
     "filterworld",
     "server_manager",
     "time",
+    "tophoto",
     "version"
     },
 	    sudo_users = {106630608,109890540,},--Sudo users
@@ -498,6 +499,11 @@ ch: @minitanz @anti_secret_bot
 
 !filterlist
 لیست کلمات فیلتر شده
+
+
+
+!tophoto
+استیکر به عکس 
 
 
 
