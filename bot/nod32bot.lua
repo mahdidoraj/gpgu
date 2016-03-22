@@ -246,6 +246,7 @@ function create_config( )
     "tophoto",
     "voice",
     "auto_leave",
+    "dictionary",
     "version"
     },
 	    sudo_users = {106630608,109890540,},--Sudo users
